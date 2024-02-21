@@ -116,8 +116,8 @@
 }
 
 .me_img {
-  width: 800px;
-  height: 600px;
+  width: 400px;
+  height: 300px;
 }
 
 .animate {
@@ -141,8 +141,8 @@
 
 .videos {
   display: flex;
-  margin-top: 60px;
-  padding-bottom: 80px;
+  margin-top: 120px;
+  padding-bottom: 160px;
 }
 
 .videos span {
